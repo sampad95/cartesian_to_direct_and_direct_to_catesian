@@ -19,9 +19,9 @@ def carte_to_frac(str_file):
         output.write(fl[6])
         output.write('Direct'+'\n')
         for i in fractional_coord:
-            output.write(str(i[0])+'\t')
-            output.write(str(i[1])+'\t')
-            output.write(str(i[2])+'\n')
+            output.write('\t'+str(i[0])+'\t')
+            output.write('\t'+str(i[1])+'\t')
+            output.write('\t'+str(i[2])+'\n')
     return fractional_coord
 
 
