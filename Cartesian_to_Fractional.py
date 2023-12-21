@@ -17,5 +17,5 @@ def carte_to_frac(str_file):
     return fractional_coord
 
 
-str_file = input('Enter the POSCAR format file with cartesian coordinate\n')
-carte_to_frac(str_file)
+structure_file = input('Enter the POSCAR format file with cartesian coordinate\n')
+carte_to_frac(structure_file)
