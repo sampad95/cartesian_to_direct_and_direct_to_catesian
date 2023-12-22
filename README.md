@@ -1,5 +1,5 @@
-**1. "cartesian_to_fractional" and "direct_to_cartesian" are executable files**
+**1. "Cartesian_to_Fractional" and "Direct_to_Cartesian" are executable files**
 
-**2. run "chmod 777 cartesian_to_fractional or direct_to_cartesian"**
+**2. run "chmod 777 Cartesian_to_Fractional or Direct_to_Cartesian"**
 
-**3. run "./cartesian_to_fractional" or "./direct_to_cartesian"**
+**3. run "./Cartesian_to_Fractional" or "./Direct_to_Cartesian"**
